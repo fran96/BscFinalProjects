@@ -1,0 +1,17 @@
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\Assignment\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MathNet.Numerics.dll
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\bin\Debug\MathNet.Numerics.xml
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.CopyComplete
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\Fran\Documents\Bsc\3BSC\3bsc_pendrive\FirstSem\StatisticsForCS\MonteCarlo_PCA_Home\MonteCarloCode\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
